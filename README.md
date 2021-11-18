@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/-Mac OS-000000?style=flat-square&logo=macOS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Windows-4D4D4D?style=flat-square&logo=Windows Terminal&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   </p>
 
 ---
@@ -124,4 +125,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://simpleicons.org/
+
 -->
