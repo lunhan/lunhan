@@ -29,6 +29,17 @@
 
 ---
 ## Experience
+Blerter AUCKLAND(Frontend developer)<br/>
+<p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bitbucket-181717?style=flat-square&logo=Bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lit-61DAFB?style=flat-square&logo=Lit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vaadin-61DAFB?style=flat-square&logo=Vaadin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-23A9F2?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Mac OS-000000?style=flat-square&logo=macOS&logoColor=white"/>
+</p>
 CUTech AUCKLAND(Frontend developer)<br/>
 <p>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
